@@ -1,2 +1,10 @@
-# 100-days-python
-Mastering Python by building 100 projects in 100 days. On the way to Learn data science, automation, build websites, games and apps all using Python!
+
+  # Job Finder Landing Page (Community)
+
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
